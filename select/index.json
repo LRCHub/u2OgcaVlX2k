@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "だいすき",
+  "base_artist": "PrincessGarden",
+  "createdAt": "2026-03-02T10:03:34.443242Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ありがとう、だいすき",
+      "artist": "茅原実里",
+      "has_synced": true,
+      "path": "select/01_ありがとう、だいすき_茅原実里.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "だいすき",
+      "artist": "南條愛乃",
+      "has_synced": false,
+      "path": "select/02_だいすき_南條愛乃.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ありがとう、だいすき (Off Vocal)",
+      "artist": "茅原実里",
+      "has_synced": true,
+      "path": "select/03_ありがとう、だいすき_(Off_Vocal)_茅原実里.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "だいすき",
+      "artist": "Yasuyuki Okamura",
+      "has_synced": true,
+      "path": "select/04_だいすき_Yasuyuki_Okamura.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "だいすき",
+      "artist": "Yasuyuki Okamura",
+      "has_synced": false,
+      "path": "select/05_だいすき_Yasuyuki_Okamura.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ありがとう、だいすき（off vocal）",
+      "artist": "茅原実里",
+      "has_synced": true,
+      "path": "select/06_ありがとう、だいすき(off_vocal)_茅原実里.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "JIKJIN ON U (feat. zzuno だいすき)",
+      "artist": "Futuristic Swaver",
+      "has_synced": false,
+      "path": "select/07_JIKJIN_ON_U_(feat._zzuno_だいすき)_Futuristic_Swaver.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "だいすき!!",
+      "artist": "ももいろクローバーZ",
+      "has_synced": true,
+      "path": "select/08_だいすき!!_ももいろクローバーZ.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "【４】おかえり、だいすき（エピローグ・催眠解除用音声）",
+      "artist": "シロイルカ",
+      "has_synced": true,
+      "path": "select/09_【4】おかえり、だいすき(エピローグ・催眠解除用音声)_シロイルカ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "だいすき",
+      "artist": "PrincessGarden",
+      "has_synced": false,
+      "path": "select/pl_01_だいすき_PrincessGarden.txt"
+    }
+  ]
+}
